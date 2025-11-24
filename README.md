@@ -1,6 +1,6 @@
 # Gerador de Senhas (Java + JavaFX)
 
-Este projeto é um **Gerador de Senhas** simples desenvolvido em **Java** utilizando a biblioteca **JavaFX** para interface gráfica. Ele foi criado com o objetivo de demonstrar habilidades em programação orientada a objetos, construção de interfaces GUI e organização de projetos Java.
+Este projeto é um **Gerador de Senhas** simples desenvolvido em **Java** utilizando a biblioteca **JavaFX** para interface gráfica. Ele foi criado com o objetivo de demonstrar habilidades em programação orientada a objetos, construção de interfaces GUI e organização de projetos Java. Ele surgiu de um projeto anterior que não usava interface gráfica.
 
 ## Funcionalidades
 - Definição do **tamanho da senha** a ser gerada  
